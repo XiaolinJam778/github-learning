@@ -22,3 +22,6 @@ I am learning how to use Git and GitHub.
 * Made my first commit
 * Pushed my project to GitHub
 
+## Branch Practice
+
+This change was made on the feature/readme-improvement branch.
